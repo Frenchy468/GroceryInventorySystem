@@ -1,6 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
 //hello
+// Kim and Paul are here beside you!
 
 
 // Define statements:
